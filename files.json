@@ -1,0 +1,16 @@
+{
+  "1": [
+    {
+      "filename": "testFile1.json",
+      "uploadDate": "12.12.2012",
+      "size": 3035,
+      "link": "test.json"
+    },
+    {
+      "filename": "testFile2.json",
+      "uploadDate": "12.12.2012",
+      "size": 3035,
+      "link": "test.json"
+    }
+  ]
+}
